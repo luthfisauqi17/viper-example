@@ -1,0 +1,6 @@
+name: My Application
+port: 8080
+database:
+  driver: postgresql
+  host: localhost
+  port: 5432
